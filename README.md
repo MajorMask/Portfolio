@@ -1,2 +1,2 @@
-# Portfolio
-Django-based Portfolio
+# django_portfolio
+ 
